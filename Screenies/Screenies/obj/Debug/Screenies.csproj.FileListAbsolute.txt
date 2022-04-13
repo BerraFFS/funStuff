@@ -1,0 +1,10 @@
+C:\Users\alican0420\source\repos\Screenies\Screenies\bin\Debug\Screenies.exe.config
+C:\Users\alican0420\source\repos\Screenies\Screenies\bin\Debug\Screenies.exe
+C:\Users\alican0420\source\repos\Screenies\Screenies\bin\Debug\Screenies.pdb
+C:\Users\alican0420\source\repos\Screenies\Screenies\obj\Debug\Screenies.csprojAssemblyReference.cache
+C:\Users\alican0420\source\repos\Screenies\Screenies\obj\Debug\Screenies.Form1.resources
+C:\Users\alican0420\source\repos\Screenies\Screenies\obj\Debug\Screenies.Properties.Resources.resources
+C:\Users\alican0420\source\repos\Screenies\Screenies\obj\Debug\Screenies.csproj.GenerateResource.cache
+C:\Users\alican0420\source\repos\Screenies\Screenies\obj\Debug\Screenies.csproj.CoreCompileInputs.cache
+C:\Users\alican0420\source\repos\Screenies\Screenies\obj\Debug\Screenies.exe
+C:\Users\alican0420\source\repos\Screenies\Screenies\obj\Debug\Screenies.pdb
